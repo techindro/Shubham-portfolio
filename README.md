@@ -44,7 +44,7 @@ sudo git clone https://github.com/codewithtechindro/shubham-portfolio.git
 Windows:
 
 ```bash
-git clone https://github.com/codewithtechindro/shubham-portfolio.git
+git clone https://github.com/techindro/Shubham-portfolio.git
 ```
 
 ### Contact
