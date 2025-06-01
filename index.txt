@@ -1,1 +1,128 @@
 
+Shubham - Personal Portfolio
+
+HEADER
+------
+Shubham.
+
+Languages: En | Ar
+Theme Toggle | Menu Toggle
+
+Menu:
+- Home
+- About
+- Skills
+- Portfolio
+- Contact
+
+HERO
+----
+[Image: A man in a blue shirt with a happy expression]
+We Design & Build Creative Products
+Get in touch
+
+Social:
+- Facebook
+- Twitter
+- LinkedIn
+
+Scroll
+
+STATS
+-----
+- 1+ Years of Experience
+- 230+ Completed Projects
+- 250k+ connection
+
+ABOUT
+-----
+[Image: A man in a alice blue shirt with a thinking expression]
+About me
+Need a Creative Product? I can Help You!
+
+"Hi! I’m Shubham Patel, a social media influencer, educator, and future tech innovator. I am passionate about empowering others through digital content and education
+I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
+
+Buttons: Hire me | Download CV
+
+SKILLS
+------
+My skills
+What My Programming Skills Included?
+
+Skills:
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- Opencv
+- Bootstrap
+- Angular
+- React
+- Vue
+- Hugging face
+- Arduino
+- SASS
+
+Tools:
+- sublime text
+- flutter
+- Docker
+- Git
+- Npm
+- Command Line
+- VS Code
+- Pycharm
+- Codeblocks
+- Android Studio
+- Photoshop
+- Adobe XD
+- Devanchi Ressolve
+WORKS
+-----
+My Works
+See My Works Which Will Amaze You!
+
+Projects:
+- Lorem Ipsum Dolor 01 (june 2025)
+- Lorem Ipsum Dolor 02
+- Lorem Ipsum Dolor 03
+- Lorem Ipsum Dolor 04
+- Lorem Ipsum Dolor 05
+- Lorem Ipsum Dolor 06
+- Lorem Ipsum Dolor 07
+
+Button: Load more work
+
+CONTACT
+-------
+Contact
+Have You Any Project? Please Drop a Message
+
+Get in touch and let me know how I can help. Fill out the form and I’ll be in touch as soon as possible.
+
+Address: Babatpur, Badagaon, Varanasi uttarpradesh 221204
+Phone: (91) 7007896695
+Email: educationhub9119@gmail.com, support@jack.com
+
+Social:
+- Facebook
+- Twitter
+- LinkedIn
+- YouTube
+
+Contact Form:
+- Name (e.g Shubham Patel)
+- Email (e.g Educationhub9920@mail.com)
+- Phone (+917007896695)
+- Message (Write message...)
+- Send
+
+FOOTER
+------
+Shubham.
+© 2025 codewithtechindro. All rights reserved
+
+GO TO TOP
+---------
+[Arrow up icon] Go to Top
