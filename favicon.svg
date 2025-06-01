@@ -1,12 +1,24 @@
 <svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="100" height="100" rx="10" fill="white"/>
+  <!-- Top half of S (black) -->
   <path
-    d="M70 25
-       Q60 15, 40 20
-       Q20 25, 30 45
-       Q40 65, 60 60
-       Q80 55, 70 75"
+    d="M70 30
+       Q70 15, 50 15
+       Q30 15, 30 30
+       Q30 45, 50 50"
     stroke="#1F1F1F"
+    stroke-width="8"
+    fill="none"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <!-- Bottom half of S (orange) -->
+  <path
+    d="M50 50
+       Q70 55, 70 70
+       Q70 85, 50 85
+       Q30 85, 30 70"
+    stroke="#E38445"
     stroke-width="8"
     fill="none"
     stroke-linecap="round"
