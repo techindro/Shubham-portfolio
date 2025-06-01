@@ -23,7 +23,7 @@
 
 ### Demo Screeshots
 
-![Shubham Portfolio Desktop Demo](./desktop.png "Desktop Demo")
+![Shubham Portfolio Desktop Demo](./desktop.jpg "Desktop Demo")
 
 ### Prerequisites
 
