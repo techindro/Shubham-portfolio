@@ -1,9 +1,9 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/jack-portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/jack-portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/jack-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithtechindro/shubham-portfolio)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/shubham-portfolio?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/shubham-portfolio?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/techindro_?style=social)](https://twitter.com/intent/follow?screen_name=techindro_)
   [![YouTube Video Views](https://img.shields.io/youtube/views/DdlVKS7MROY?style=social)](https://youtu.be/DdlVKS7MROY)
 
   <br />
